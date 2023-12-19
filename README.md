@@ -13,6 +13,6 @@ Deep learning is a subset of machine learning that uses artificial neural networ
 » Decision trees
 » Evolutionary algorithms
 
-## TensorFlow is an open-source, multi-machine set of APIs (application programming interfaces) used for building, learning, and doing research on deep learning. 
+## TensorFlow is an open-source, multi-machine set of APIs (application programming interfaces) used for building, learning, and doing research on deep learning. 
 It hides a lot of the complexity of deep learning, which makes the technology more 
 accessible
